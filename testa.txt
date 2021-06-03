@@ -1,1 +1,2 @@
 I am A text file
+I am a second line in text file
